@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @uzziex
 - 👀 I’m interested in web development
-- 🌱 I’m currently studying in bachelors of computer science
-- 💞️ I’m learning react now a days
-- 📫 you can reach me at usmancesur@outlook.com
+- 🌱 I’m currently studying bachelors of computer science
+- 💞️ I’m learning node js
+- 📫 you can reach me at usmanali1024@hotmail.com
 
 <!---
 uzziex/uzziex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
